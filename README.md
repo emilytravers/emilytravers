@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @emilytravers
+- 👀 I’m interested in ...
+D&D and speculative fiction.
+- 🌱 I’m currently learning ...
+Through freecodecamp.org and theodinproject.com.
+- 💞️ I’m looking to collaborate on ...
+Nothing.
+- 📫 How to reach me ...
+Please feel free to email me at embtravers@gmail.com
+<!---
+emilytravers/emilytravers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
